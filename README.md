@@ -1,4 +1,4 @@
-# YBI_Foundatio
+# YBI_Foundation
 
 🌐 Responsive Landing Page
 
